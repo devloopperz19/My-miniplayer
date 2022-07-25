@@ -1,2 +1,2 @@
-# My-miniplayer
+# miniplayer
  
