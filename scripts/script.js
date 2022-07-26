@@ -12,7 +12,7 @@ new Vue({
         {
           name: "comethru",
           artist: "Jeremy Zucker",
-          cover: "img/21.jpg",
+          cover: "https://i.pinimg.com/originals/2c/38/1a/2c381a5e99c66e147e90fd99e7ed02a8.gif",
           source: "mp3/comethru.mp3",
           url: "https://www.youtube.com/watch?v=jO2viLEW-1A",
           favorited: false
@@ -58,18 +58,18 @@ new Vue({
           favorited: true
         },
         {
-          name: "Genius ft. Sia, Diplo, Labrinth",
-          artist: "LSD",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
+          name: "Lovely",
+          artist: "Billie Eilish",
+          cover: "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvMTI3MTQ3L2ltYWdlL2NLSlNaUENYdUdKci8xNDc3MzU3LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJmaWxsIiwid2lkdGgiOjI0MCwiaGVpZ2h0IjoyNDB9fX0=?t=1653201151715",
+          source: "mp3/Billie Eilish ft.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
+          name: "Robbers",
+          artist: "The1975",
+          cover: "https://4.bp.blogspot.com/-AwihXVCRsgc/VvZTvei5Q3I/AAAAAAAAAMA/XwsRO7dOEtU-BZLrfsWXckieioUnHJPpw/s1600/tumblr_o49jt5X9hb1s4z0mfo1_500.gif",
+          source: "mp3/The1975-Robbers.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
           favorited: true
         },
