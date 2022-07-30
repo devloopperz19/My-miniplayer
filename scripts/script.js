@@ -20,7 +20,7 @@ new Vue({
         {
           name: "WayBackHome",
           artist: "SHAUN",
-          cover: "https://cdn.wallpapersafari.com/1/89/nD7Ww3.png",
+          cover: "https://i.gifer.com/VIR.gif",
           source: "mp3/WayBackHome.mp3",
           url: "https://www.youtube.com/watch?v=1kehqCLudyg",
           favorited: false
@@ -36,7 +36,7 @@ new Vue({
         {
           name: "DancingWithYourGhost",
           artist: "Sasha Sloan",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
+          cover: "https://i.gifer.com/B8mk.gif",
           source: "mp3/DancingWithYourGhost.mp3",
           url: "https://www.youtube.com/watch?v=zVT063ootrU",
           favorited: false
@@ -44,7 +44,7 @@ new Vue({
         {
           name: "SignoftheTimes",
           artist: "Harry Styles",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
+          cover: "https://i.gifer.com/2A5.gif",
           source: "mp3/SignoftheTimes.mp3",
           url: "https://www.youtube.com/watch?v=qN4ooNx77u0",
           favorited: false
@@ -52,7 +52,7 @@ new Vue({
         {
           name: "LetMeDownSlowly",
           artist: "Alec Benjamin",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
+          cover: "https://i.gifer.com/7CLk.gif",
           source: "mp3/LetMeDownSlowly.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
           favorited: true
