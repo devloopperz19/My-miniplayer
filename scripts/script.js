@@ -28,7 +28,7 @@ new Vue({
         {
           name: "Always Remember Us This Way",
           artist: "Ledy gaga",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
+          cover: "https://i.gifer.com/4Cb2.gif",
           source: "mp3/Always Remember Us This Way.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
