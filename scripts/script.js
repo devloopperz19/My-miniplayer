@@ -13,7 +13,7 @@ new Vue({
           name: "comethru",
           artist: "Jeremy Zucker",
           cover: "https://i.pinimg.com/originals/2c/38/1a/2c381a5e99c66e147e90fd99e7ed02a8.gif",
-          source: "mp3/comethru.mp3",
+          source: "mp3/สบายดีไหม - PARATA.mp3",
           url: "https://www.youtube.com/watch?v=jO2viLEW-1A",
           favorited: false
         },
@@ -21,7 +21,7 @@ new Vue({
           name: "WayBackHome",
           artist: "SHAUN",
           cover: "https://i.gifer.com/VIR.gif",
-          source: "mp3/WayBackHome.mp3",
+          source: "mp3/ปิดตาข้างนึง - ทรงไทย.mp3",
           url: "https://www.youtube.com/watch?v=1kehqCLudyg",
           favorited: false
         },
@@ -29,7 +29,7 @@ new Vue({
           name: "Always Remember Us This Way",
           artist: "Ledy gaga",
           cover: "https://i.gifer.com/4Cb2.gif",
-          source: "mp3/Always Remember Us This Way.mp3",
+          source: "mp3/ได้แค่ไหน เอาแค่นั้น - Mummy Daddy.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
         },
